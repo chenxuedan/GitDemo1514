@@ -47,6 +47,7 @@
 		0F0AD0561627CB6B0059EDA7 /* 7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F0AD0381627CB6B0059EDA7 /* 7.jpg */; };
 		0F0AD0571627CB6B0059EDA7 /* 8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F0AD0391627CB6B0059EDA7 /* 8.jpg */; };
 		0F0AD0581627CB6B0059EDA7 /* 9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F0AD03A1627CB6B0059EDA7 /* 9.jpg */; };
+		BC3E64ED1BF32B5E0048D624 /* ViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = BC3E64EC1BF32B5E0048D624 /* ViewController2.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -96,6 +97,8 @@
 		0F0AD0381627CB6B0059EDA7 /* 7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpg; sourceTree = "<group>"; };
 		0F0AD0391627CB6B0059EDA7 /* 8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpg; sourceTree = "<group>"; };
 		0F0AD03A1627CB6B0059EDA7 /* 9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9.jpg; sourceTree = "<group>"; };
+		BC3E64EB1BF32B5E0048D624 /* ViewController2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController2.h; sourceTree = "<group>"; };
+		BC3E64EC1BF32B5E0048D624 /* ViewController2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController2.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,6 +154,8 @@
 				0F0ACFCD1627AECC0059EDA7 /* ViewController.m */,
 				0F0ACFC91627AEC30059EDA7 /* iCarousel.h */,
 				0F0ACFCA1627AEC30059EDA7 /* iCarousel.m */,
+				BC3E64EB1BF32B5E0048D624 /* ViewController2.h */,
+				BC3E64EC1BF32B5E0048D624 /* ViewController2.m */,
 				0F0AD01C1627CB6B0059EDA7 /* photo */,
 				0F0ACFB31627ADA60059EDA7 /* Supporting Files */,
 			);
@@ -299,6 +304,7 @@
 			files = (
 				0F0ACFB91627ADA60059EDA7 /* main.m in Sources */,
 				0F0ACFBD1627ADA60059EDA7 /* AppDelegate.m in Sources */,
+				BC3E64ED1BF32B5E0048D624 /* ViewController2.m in Sources */,
 				0F0ACFCB1627AEC30059EDA7 /* iCarousel.m in Sources */,
 				0F0ACFCE1627AECC0059EDA7 /* ViewController.m in Sources */,
 			);
@@ -410,6 +416,7 @@
 				0F0ACFC81627ADA60059EDA7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
